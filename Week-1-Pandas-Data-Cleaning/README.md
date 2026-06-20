@@ -7,6 +7,6 @@ Checked for duplicate records
 Created a derived column which is discount amount since there was no quantity coloumn for totalamount to be calculated 
 saved it into a new cleaned dataset
 
-#The two files are:
+## The two files are:
 assignment_week1- It contains the exploration and cleaning that is done on the csv file
-cleaned_dataset- It contains the final csv file after exploration and cleaning
+cleaned_dataset- It contains the final csv file after exploration and cleaning.
