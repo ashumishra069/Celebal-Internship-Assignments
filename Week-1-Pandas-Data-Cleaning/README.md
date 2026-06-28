@@ -10,3 +10,6 @@
 ## The two files are:
 - assignment_week1- It contains the exploration and cleaning that is done on the csv file
 - cleaned_dataset.csv- It contains the final csv file after exploration and cleaning.
+
+## Author
+Ashutosh Mishra
