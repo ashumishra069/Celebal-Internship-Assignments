@@ -20,3 +20,7 @@ Analyze the Superstore dataset using Subqueries, CTEs, Window Functions, and JOI
 
 ## Outcome
 Gained experience with advanced SQL concepts for data analysis and customer sales insights.
+
+## author
+ashutosh mishra
+
