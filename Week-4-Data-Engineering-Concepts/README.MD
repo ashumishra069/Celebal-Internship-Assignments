@@ -40,3 +40,7 @@ The pipeline executed successfully and copied the CSV file from the source locat
 
 I became familiar with the Azure Portal, Storage Accounts, Blob Containers, Azure Data Factory, Linked Services, Datasets, Pipelines, and basic
 (IAM) role assignments. This assignment gave me a practical understanding of how Azure Data Factory is used to move data between storage locations in a cloud environment.
+
+## Author
+
+Ashutosh Mishra
