@@ -1,0 +1,31 @@
+customer_id,name,city,age,membership
+103,Aman Updated,Mysuru,33,Platinum
+110,Updated Customer,Kanpur,28,Platinum
+125,Manoj Updated,Nagpur,26,Platinum
+140,Arjun Updated,Chandigarh,35,Platinum
+150,Ashutosh Updated,Visakhapatnam,27,Platinum
+175,Rohit Updated,Hyderabad,26,Platinum
+180,Divya Updated,Nagpur,36,Platinum
+190,Ankit Updated,Mysuru,35,Platinum
+195,Arjun Updated,Chennai,32,Platinum
+200,Aman Updated,Mumbai,30,Platinum
+201,Akash,Lucknow,23,Gold
+202,Ankit,Jaipur,26,Gold
+203,Karan,Ahmedabad,34,Bronze
+204,Kavya,Visakhapatnam,33,Bronze
+205,Payal,Bhubaneswar,31,Bronze
+206,Kavya,Mysuru,22,Silver
+207,Arjun,Kolkata,35,Silver
+208,Komal,Pune,25,Gold
+209,Nitin,Chennai,32,Gold
+210,Divya,Mysuru,31,Gold
+211,Akash,Kochi,25,Silver
+212,Sneha,Bengaluru,27,Gold
+213,Priya,Bhubaneswar,26,Silver
+214,Arjun,Hyderabad,32,Gold
+215,Komal,Kanpur,27,Bronze
+216,Ashutosh,Kolkata,22,Bronze
+217,Pooja,Chandigarh,21,Gold
+218,Tanvi,Chandigarh,23,Gold
+219,Rohan,Delhi,25,Gold
+220,Priya,Indore,24,Bronze
