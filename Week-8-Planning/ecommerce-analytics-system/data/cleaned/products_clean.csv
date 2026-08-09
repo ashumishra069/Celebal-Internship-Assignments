@@ -1,0 +1,601 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Sofa,Home,Home - General,447.37
+PROD0002,Hoodie,Clothing,Clothing - General,478.45
+PROD0003,Shirt,Clothing,Clothing - General,93.95
+PROD0004,Chair,Home,Home - General,820.24
+PROD0005,Shirt,Clothing,Clothing - General,317.32
+PROD0006,Jeans,Clothing,Clothing - General,34.18
+PROD0007,Shoes,Clothing,Clothing - General,615.16
+PROD0008,Keyboard,Electronics,Electronics - General,420.3
+PROD0009,Shirt,Clothing,Clothing - General,699.39
+PROD0010,Data Science Book,Books,Books - General,251.54
+PROD0011,Laptop,Electronics,Electronics - General,780.64
+PROD0012,Jeans,Clothing,Clothing - General,806.07
+PROD0013,Novel,Books,Books - General,561.83
+PROD0014,Keyboard,Electronics,Electronics - General,142.01
+PROD0015,History Book,Books,Books - General,988.01
+PROD0016,Sofa,Home,Home - General,616.53
+PROD0017,History Book,Books,Books - General,451.45
+PROD0018,Shirt,Clothing,Clothing - General,862.88
+PROD0019,Sql Book,Books,Books - General,754.26
+PROD0020,Curtains,Home,Home - General,489.75
+PROD0021,Jacket,Clothing,Clothing - General,445.47
+PROD0022,Table,Home,Home - General,279.0
+PROD0023,Curtains,Home,Home - General,89.77
+PROD0024,Jeans,Clothing,Clothing - General,389.2
+PROD0025,Shirt,Clothing,Clothing - General,221.81
+PROD0026,Data Science Book,Books,Books - General,337.57
+PROD0027,Data Science Book,Books,Books - General,71.64
+PROD0028,Data Science Book,Books,Books - General,905.79
+PROD0029,Mouse,Electronics,Electronics - General,386.58
+PROD0030,Headphones,Electronics,Electronics - General,305.63
+PROD0031,Data Science Book,Books,Books - General,542.84
+PROD0032,Shoes,Clothing,Clothing - General,227.23
+PROD0033,Data Science Book,Books,Books - General,38.73
+PROD0034,Pillow,Home,Home - General,682.35
+PROD0035,Python Book,Books,Books - General,842.1
+PROD0036,Hoodie,Clothing,Clothing - General,538.78
+PROD0037,History Book,Books,Books - General,568.75
+PROD0038,Laptop,Electronics,Electronics - General,646.32
+PROD0039,Shoes,Clothing,Clothing - General,189.91
+PROD0040,Sofa,Home,Home - General,334.08
+PROD0041,Sql Book,Books,Books - General,344.13
+PROD0042,Sql Book,Books,Books - General,754.49
+PROD0043,Sql Book,Books,Books - General,836.56
+PROD0044,Novel,Books,Books - General,751.53
+PROD0045,Headphones,Electronics,Electronics - General,231.98
+PROD0046,Monitor,Electronics,Electronics - General,49.86
+PROD0047,Smartphone,Electronics,Electronics - General,207.37
+PROD0048,Mouse,Electronics,Electronics - General,160.86
+PROD0049,Shoes,Clothing,Clothing - General,672.76
+PROD0050,Shoes,Clothing,Clothing - General,702.47
+PROD0051,Table,Home,Home - General,609.83
+PROD0052,Smartphone,Electronics,Electronics - General,965.07
+PROD0053,Mouse,Electronics,Electronics - General,35.42
+PROD0054,Curtains,Home,Home - General,680.57
+PROD0055,Data Science Book,Books,Books - General,942.06
+PROD0056,T-Shirt,Clothing,Clothing - General,596.18
+PROD0057,T-Shirt,Clothing,Clothing - General,700.22
+PROD0058,Pillow,Home,Home - General,604.41
+PROD0059,Mouse,Electronics,Electronics - General,784.81
+PROD0060,Curtains,Home,Home - General,434.09
+PROD0061,Chair,Home,Home - General,510.9
+PROD0062,Chair,Home,Home - General,851.08
+PROD0063,Novel,Books,Books - General,439.19
+PROD0064,Pillow,Home,Home - General,892.66
+PROD0065,Python Book,Books,Books - General,441.13
+PROD0066,Curtains,Home,Home - General,810.12
+PROD0067,Data Science Book,Books,Books - General,441.22
+PROD0068,Lamp,Home,Home - General,853.2
+PROD0069,Headphones,Electronics,Electronics - General,882.81
+PROD0070,Shoes,Clothing,Clothing - General,574.15
+PROD0071,Sql Book,Books,Books - General,38.41
+PROD0072,Table,Home,Home - General,492.67
+PROD0073,Lamp,Home,Home - General,346.94
+PROD0074,Curtains,Home,Home - General,20.05
+PROD0075,T-Shirt,Clothing,Clothing - General,248.94
+PROD0076,Data Science Book,Books,Books - General,559.62
+PROD0077,Shirt,Clothing,Clothing - General,481.33
+PROD0078,Data Science Book,Books,Books - General,795.0
+PROD0079,Headphones,Electronics,Electronics - General,229.38
+PROD0080,Jacket,Clothing,Clothing - General,667.32
+PROD0081,Sofa,Home,Home - General,557.94
+PROD0082,Sofa,Home,Home - General,996.67
+PROD0083,Lamp,Home,Home - General,705.83
+PROD0084,Lamp,Home,Home - General,258.89
+PROD0085,Monitor,Electronics,Electronics - General,200.66
+PROD0086,Monitor,Electronics,Electronics - General,540.51
+PROD0087,Jeans,Clothing,Clothing - General,224.22
+PROD0088,Sql Book,Books,Books - General,727.34
+PROD0089,Chair,Home,Home - General,834.3
+PROD0090,Table,Home,Home - General,367.27
+PROD0091,Chair,Home,Home - General,710.94
+PROD0092,Jacket,Clothing,Clothing - General,55.06
+PROD0093,Mouse,Electronics,Electronics - General,299.22
+PROD0094,Shirt,Clothing,Clothing - General,869.78
+PROD0095,Novel,Books,Books - General,873.99
+PROD0096,Sofa,Home,Home - General,483.93
+PROD0097,Table,Home,Home - General,965.84
+PROD0098,Sofa,Home,Home - General,122.95
+PROD0099,Keyboard,Electronics,Electronics - General,496.83
+PROD0100,Smartphone,Electronics,Electronics - General,157.71
+PROD0101,Chair,Home,Home - General,993.98
+PROD0102,Mouse,Electronics,Electronics - General,766.8
+PROD0103,Hoodie,Clothing,Clothing - General,386.57
+PROD0104,Sql Book,Books,Books - General,861.56
+PROD0105,Sql Book,Books,Books - General,572.94
+PROD0106,Mouse,Electronics,Electronics - General,960.51
+PROD0107,Smartphone,Electronics,Electronics - General,629.26
+PROD0108,Pillow,Home,Home - General,90.38
+PROD0109,Jeans,Clothing,Clothing - General,556.47
+PROD0110,T-Shirt,Clothing,Clothing - General,414.43
+PROD0111,Sql Book,Books,Books - General,42.31
+PROD0112,Pillow,Home,Home - General,289.89
+PROD0113,Novel,Books,Books - General,690.51
+PROD0114,Pillow,Home,Home - General,593.89
+PROD0115,Shoes,Clothing,Clothing - General,123.63
+PROD0116,Shirt,Clothing,Clothing - General,157.5
+PROD0117,Table,Home,Home - General,80.7
+PROD0118,Jacket,Clothing,Clothing - General,599.09
+PROD0119,Sofa,Home,Home - General,133.11
+PROD0120,Pillow,Home,Home - General,408.48
+PROD0121,Curtains,Home,Home - General,544.58
+PROD0122,Novel,Books,Books - General,602.06
+PROD0123,Sql Book,Books,Books - General,607.68
+PROD0124,Laptop,Electronics,Electronics - General,236.64
+PROD0125,Monitor,Electronics,Electronics - General,823.21
+PROD0126,Smartphone,Electronics,Electronics - General,475.8
+PROD0127,Sql Book,Books,Books - General,189.67
+PROD0128,Data Science Book,Books,Books - General,969.36
+PROD0129,Sql Book,Books,Books - General,414.26
+PROD0130,Pillow,Home,Home - General,113.55
+PROD0131,Jacket,Clothing,Clothing - General,417.53
+PROD0132,Sql Book,Books,Books - General,665.96
+PROD0133,History Book,Books,Books - General,46.33
+PROD0134,Headphones,Electronics,Electronics - General,259.87
+PROD0135,Keyboard,Electronics,Electronics - General,866.26
+PROD0136,Monitor,Electronics,Electronics - General,870.67
+PROD0137,Data Science Book,Books,Books - General,63.66
+PROD0138,Curtains,Home,Home - General,758.88
+PROD0139,Novel,Books,Books - General,211.52
+PROD0140,Jacket,Clothing,Clothing - General,443.73
+PROD0141,Novel,Books,Books - General,38.58
+PROD0142,Shirt,Clothing,Clothing - General,166.79
+PROD0143,Mouse,Electronics,Electronics - General,413.91
+PROD0144,T-Shirt,Clothing,Clothing - General,466.83
+PROD0145,Monitor,Electronics,Electronics - General,833.82
+PROD0146,Sql Book,Books,Books - General,513.78
+PROD0147,Sofa,Home,Home - General,836.38
+PROD0148,Python Book,Books,Books - General,462.22
+PROD0149,Shoes,Clothing,Clothing - General,198.7
+PROD0150,T-Shirt,Clothing,Clothing - General,283.48
+PROD0151,Sql Book,Books,Books - General,934.91
+PROD0152,Chair,Home,Home - General,290.01
+PROD0153,Curtains,Home,Home - General,584.12
+PROD0154,Python Book,Books,Books - General,452.08
+PROD0155,Sql Book,Books,Books - General,339.12
+PROD0156,Data Science Book,Books,Books - General,933.52
+PROD0157,Shirt,Clothing,Clothing - General,246.42
+PROD0158,Python Book,Books,Books - General,857.45
+PROD0159,Novel,Books,Books - General,324.99
+PROD0160,Data Science Book,Books,Books - General,392.22
+PROD0161,Shoes,Clothing,Clothing - General,965.18
+PROD0162,Hoodie,Clothing,Clothing - General,965.7
+PROD0163,Chair,Home,Home - General,875.45
+PROD0164,Novel,Books,Books - General,530.69
+PROD0165,Novel,Books,Books - General,725.22
+PROD0166,Python Book,Books,Books - General,84.08
+PROD0167,Lamp,Home,Home - General,627.03
+PROD0168,Novel,Books,Books - General,853.25
+PROD0169,Sql Book,Books,Books - General,630.53
+PROD0170,History Book,Books,Books - General,45.54
+PROD0171,Smartphone,Electronics,Electronics - General,634.85
+PROD0172,Table,Home,Home - General,749.3
+PROD0173,Novel,Books,Books - General,762.77
+PROD0174,Keyboard,Electronics,Electronics - General,174.7
+PROD0175,Chair,Home,Home - General,55.53
+PROD0176,Headphones,Electronics,Electronics - General,364.88
+PROD0177,Python Book,Books,Books - General,251.76
+PROD0178,History Book,Books,Books - General,684.98
+PROD0179,Jeans,Clothing,Clothing - General,183.32
+PROD0180,History Book,Books,Books - General,686.3
+PROD0181,History Book,Books,Books - General,151.69
+PROD0182,Sql Book,Books,Books - General,464.97
+PROD0183,Keyboard,Electronics,Electronics - General,902.2
+PROD0184,T-Shirt,Clothing,Clothing - General,447.31
+PROD0185,Curtains,Home,Home - General,306.16
+PROD0186,Sql Book,Books,Books - General,462.27
+PROD0187,Table,Home,Home - General,999.38
+PROD0188,Novel,Books,Books - General,244.83
+PROD0189,Curtains,Home,Home - General,302.91
+PROD0190,Chair,Home,Home - General,978.17
+PROD0191,Sql Book,Books,Books - General,18.02
+PROD0192,Mouse,Electronics,Electronics - General,747.72
+PROD0193,Table,Home,Home - General,610.99
+PROD0194,Table,Home,Home - General,640.25
+PROD0195,Pillow,Home,Home - General,758.02
+PROD0196,Shirt,Clothing,Clothing - General,106.19
+PROD0197,Headphones,Electronics,Electronics - General,790.72
+PROD0198,Mouse,Electronics,Electronics - General,371.21
+PROD0199,T-Shirt,Clothing,Clothing - General,910.53
+PROD0200,Pillow,Home,Home - General,421.35
+PROD0201,Jeans,Clothing,Clothing - General,788.65
+PROD0202,Curtains,Home,Home - General,506.78
+PROD0203,Table,Home,Home - General,264.4
+PROD0204,Sql Book,Books,Books - General,749.09
+PROD0205,Chair,Home,Home - General,473.65
+PROD0206,Smartphone,Electronics,Electronics - General,756.61
+PROD0207,Shirt,Clothing,Clothing - General,726.97
+PROD0208,History Book,Books,Books - General,372.12
+PROD0209,Novel,Books,Books - General,271.81
+PROD0210,Keyboard,Electronics,Electronics - General,374.9
+PROD0211,Curtains,Home,Home - General,387.22
+PROD0212,Chair,Home,Home - General,678.09
+PROD0213,Novel,Books,Books - General,623.35
+PROD0214,Curtains,Home,Home - General,229.15
+PROD0215,Monitor,Electronics,Electronics - General,825.62
+PROD0216,Pillow,Home,Home - General,414.21
+PROD0217,T-Shirt,Clothing,Clothing - General,946.8
+PROD0218,Sofa,Home,Home - General,124.96
+PROD0219,Hoodie,Clothing,Clothing - General,144.31
+PROD0220,Sql Book,Books,Books - General,673.78
+PROD0221,History Book,Books,Books - General,744.85
+PROD0222,Shoes,Clothing,Clothing - General,658.37
+PROD0223,History Book,Books,Books - General,414.03
+PROD0224,Chair,Home,Home - General,693.38
+PROD0225,Shoes,Clothing,Clothing - General,450.25
+PROD0226,Jacket,Clothing,Clothing - General,108.36
+PROD0227,Curtains,Home,Home - General,902.68
+PROD0228,Chair,Home,Home - General,404.16
+PROD0229,T-Shirt,Clothing,Clothing - General,949.52
+PROD0230,Novel,Books,Books - General,666.14
+PROD0231,Laptop,Electronics,Electronics - General,788.93
+PROD0232,Jeans,Clothing,Clothing - General,789.11
+PROD0233,T-Shirt,Clothing,Clothing - General,831.52
+PROD0234,Hoodie,Clothing,Clothing - General,223.79
+PROD0235,Jacket,Clothing,Clothing - General,776.62
+PROD0236,Headphones,Electronics,Electronics - General,859.82
+PROD0237,Jeans,Clothing,Clothing - General,544.81
+PROD0238,T-Shirt,Clothing,Clothing - General,664.45
+PROD0239,Smartphone,Electronics,Electronics - General,24.71
+PROD0240,Hoodie,Clothing,Clothing - General,330.53
+PROD0241,Jacket,Clothing,Clothing - General,61.88
+PROD0242,History Book,Books,Books - General,122.51
+PROD0243,Keyboard,Electronics,Electronics - General,453.79
+PROD0244,Curtains,Home,Home - General,597.73
+PROD0245,History Book,Books,Books - General,229.33
+PROD0246,Monitor,Electronics,Electronics - General,785.39
+PROD0247,Sofa,Home,Home - General,646.91
+PROD0248,Laptop,Electronics,Electronics - General,998.6
+PROD0249,Data Science Book,Books,Books - General,689.24
+PROD0250,Data Science Book,Books,Books - General,82.76
+PROD0251,Headphones,Electronics,Electronics - General,612.21
+PROD0252,Smartphone,Electronics,Electronics - General,282.27
+PROD0253,Sofa,Home,Home - General,994.68
+PROD0254,Sofa,Home,Home - General,510.5
+PROD0255,Novel,Books,Books - General,795.17
+PROD0256,Monitor,Electronics,Electronics - General,654.41
+PROD0257,Shoes,Clothing,Clothing - General,457.04
+PROD0258,Shoes,Clothing,Clothing - General,345.54
+PROD0259,Data Science Book,Books,Books - General,421.83
+PROD0260,Headphones,Electronics,Electronics - General,432.5
+PROD0261,Lamp,Home,Home - General,954.06
+PROD0262,Novel,Books,Books - General,100.31
+PROD0263,Laptop,Electronics,Electronics - General,437.56
+PROD0264,Table,Home,Home - General,560.81
+PROD0265,Pillow,Home,Home - General,131.01
+PROD0266,Pillow,Home,Home - General,941.72
+PROD0267,Novel,Books,Books - General,968.71
+PROD0268,Lamp,Home,Home - General,112.56
+PROD0269,Jeans,Clothing,Clothing - General,660.17
+PROD0270,T-Shirt,Clothing,Clothing - General,356.61
+PROD0271,Chair,Home,Home - General,764.98
+PROD0272,Shoes,Clothing,Clothing - General,846.7
+PROD0273,Mouse,Electronics,Electronics - General,929.79
+PROD0274,Chair,Home,Home - General,188.61
+PROD0275,Lamp,Home,Home - General,357.51
+PROD0276,Jeans,Clothing,Clothing - General,570.66
+PROD0277,Novel,Books,Books - General,150.46
+PROD0278,Laptop,Electronics,Electronics - General,748.65
+PROD0279,Shoes,Clothing,Clothing - General,425.63
+PROD0280,Table,Home,Home - General,376.35
+PROD0281,Curtains,Home,Home - General,600.26
+PROD0282,Smartphone,Electronics,Electronics - General,165.84
+PROD0283,Monitor,Electronics,Electronics - General,90.77
+PROD0284,Data Science Book,Books,Books - General,490.81
+PROD0285,Data Science Book,Books,Books - General,280.44
+PROD0286,Headphones,Electronics,Electronics - General,435.61
+PROD0287,Pillow,Home,Home - General,681.7
+PROD0288,History Book,Books,Books - General,670.46
+PROD0289,Smartphone,Electronics,Electronics - General,401.31
+PROD0290,Laptop,Electronics,Electronics - General,212.38
+PROD0291,Jeans,Clothing,Clothing - General,766.52
+PROD0292,Lamp,Home,Home - General,128.78
+PROD0293,Data Science Book,Books,Books - General,183.94
+PROD0294,History Book,Books,Books - General,706.63
+PROD0295,Chair,Home,Home - General,403.1
+PROD0296,Keyboard,Electronics,Electronics - General,28.55
+PROD0297,Headphones,Electronics,Electronics - General,580.0
+PROD0298,Data Science Book,Books,Books - General,296.62
+PROD0299,Novel,Books,Books - General,966.54
+PROD0300,Hoodie,Clothing,Clothing - General,465.5
+PROD0301,Chair,Home,Home - General,442.34
+PROD0302,Smartphone,Electronics,Electronics - General,441.32
+PROD0303,History Book,Books,Books - General,87.86
+PROD0304,Pillow,Home,Home - General,346.12
+PROD0305,Table,Home,Home - General,85.62
+PROD0306,Mouse,Electronics,Electronics - General,514.85
+PROD0307,Lamp,Home,Home - General,730.11
+PROD0308,Jeans,Clothing,Clothing - General,111.78
+PROD0309,Table,Home,Home - General,181.76
+PROD0310,Shirt,Clothing,Clothing - General,84.6
+PROD0311,Data Science Book,Books,Books - General,756.9
+PROD0312,History Book,Books,Books - General,646.56
+PROD0313,Pillow,Home,Home - General,322.98
+PROD0314,Novel,Books,Books - General,474.23
+PROD0315,Lamp,Home,Home - General,595.51
+PROD0316,Curtains,Home,Home - General,83.45
+PROD0317,Data Science Book,Books,Books - General,47.23
+PROD0318,Lamp,Home,Home - General,85.96
+PROD0319,Mouse,Electronics,Electronics - General,598.14
+PROD0320,Data Science Book,Books,Books - General,584.53
+PROD0321,Keyboard,Electronics,Electronics - General,909.96
+PROD0322,Jacket,Clothing,Clothing - General,608.96
+PROD0323,T-Shirt,Clothing,Clothing - General,456.02
+PROD0324,Pillow,Home,Home - General,93.49
+PROD0325,T-Shirt,Clothing,Clothing - General,255.27
+PROD0326,Data Science Book,Books,Books - General,528.83
+PROD0327,Jacket,Clothing,Clothing - General,379.12
+PROD0328,Sofa,Home,Home - General,414.68
+PROD0329,Pillow,Home,Home - General,601.91
+PROD0330,Chair,Home,Home - General,336.39
+PROD0331,Sql Book,Books,Books - General,259.48
+PROD0332,Jacket,Clothing,Clothing - General,90.69
+PROD0333,Jacket,Clothing,Clothing - General,317.13
+PROD0334,Python Book,Books,Books - General,599.09
+PROD0335,Headphones,Electronics,Electronics - General,563.33
+PROD0336,Table,Home,Home - General,673.42
+PROD0337,Monitor,Electronics,Electronics - General,673.75
+PROD0338,Chair,Home,Home - General,368.97
+PROD0339,Jeans,Clothing,Clothing - General,348.32
+PROD0340,Python Book,Books,Books - General,234.28
+PROD0341,Jeans,Clothing,Clothing - General,86.39
+PROD0342,Mouse,Electronics,Electronics - General,773.17
+PROD0343,Monitor,Electronics,Electronics - General,343.4
+PROD0344,Hoodie,Clothing,Clothing - General,382.95
+PROD0345,Jeans,Clothing,Clothing - General,833.03
+PROD0346,Shirt,Clothing,Clothing - General,443.3
+PROD0347,Sql Book,Books,Books - General,679.6
+PROD0348,Shoes,Clothing,Clothing - General,614.49
+PROD0349,Python Book,Books,Books - General,538.67
+PROD0350,Sofa,Home,Home - General,904.93
+PROD0351,Jacket,Clothing,Clothing - General,681.52
+PROD0352,Data Science Book,Books,Books - General,771.74
+PROD0353,History Book,Books,Books - General,532.19
+PROD0354,Jeans,Clothing,Clothing - General,803.25
+PROD0355,Jacket,Clothing,Clothing - General,61.66
+PROD0356,Sql Book,Books,Books - General,559.0
+PROD0357,Monitor,Electronics,Electronics - General,847.43
+PROD0358,Headphones,Electronics,Electronics - General,93.04
+PROD0359,Jacket,Clothing,Clothing - General,454.83
+PROD0360,Shoes,Clothing,Clothing - General,100.8
+PROD0361,Shoes,Clothing,Clothing - General,885.78
+PROD0362,Keyboard,Electronics,Electronics - General,62.72
+PROD0363,Table,Home,Home - General,392.3
+PROD0364,Headphones,Electronics,Electronics - General,232.29
+PROD0365,Chair,Home,Home - General,840.78
+PROD0366,Table,Home,Home - General,146.22
+PROD0367,Sofa,Home,Home - General,699.11
+PROD0368,Shirt,Clothing,Clothing - General,474.42
+PROD0369,Laptop,Electronics,Electronics - General,28.81
+PROD0370,Jeans,Clothing,Clothing - General,553.32
+PROD0371,Novel,Books,Books - General,778.41
+PROD0372,Jacket,Clothing,Clothing - General,130.63
+PROD0373,Shoes,Clothing,Clothing - General,642.56
+PROD0374,Novel,Books,Books - General,119.75
+PROD0375,History Book,Books,Books - General,540.69
+PROD0376,Shirt,Clothing,Clothing - General,152.14
+PROD0377,Novel,Books,Books - General,618.66
+PROD0378,Hoodie,Clothing,Clothing - General,422.4
+PROD0379,Mouse,Electronics,Electronics - General,974.91
+PROD0380,Mouse,Electronics,Electronics - General,548.64
+PROD0381,Keyboard,Electronics,Electronics - General,874.6
+PROD0382,Monitor,Electronics,Electronics - General,393.01
+PROD0383,Lamp,Home,Home - General,749.84
+PROD0384,Chair,Home,Home - General,351.35
+PROD0385,Mouse,Electronics,Electronics - General,737.84
+PROD0386,Table,Home,Home - General,53.89
+PROD0387,Pillow,Home,Home - General,183.34
+PROD0388,Data Science Book,Books,Books - General,635.42
+PROD0389,T-Shirt,Clothing,Clothing - General,718.88
+PROD0390,Novel,Books,Books - General,300.51
+PROD0391,Smartphone,Electronics,Electronics - General,886.93
+PROD0392,Lamp,Home,Home - General,520.23
+PROD0393,Sql Book,Books,Books - General,46.25
+PROD0394,Jacket,Clothing,Clothing - General,363.4
+PROD0395,Monitor,Electronics,Electronics - General,338.61
+PROD0396,Headphones,Electronics,Electronics - General,442.58
+PROD0397,Data Science Book,Books,Books - General,895.69
+PROD0398,Sql Book,Books,Books - General,973.99
+PROD0399,Data Science Book,Books,Books - General,373.67
+PROD0400,Chair,Home,Home - General,729.81
+PROD0401,Keyboard,Electronics,Electronics - General,606.43
+PROD0402,Hoodie,Clothing,Clothing - General,300.83
+PROD0403,Laptop,Electronics,Electronics - General,334.64
+PROD0404,Lamp,Home,Home - General,451.46
+PROD0405,Python Book,Books,Books - General,692.87
+PROD0406,Sofa,Home,Home - General,51.93
+PROD0407,Curtains,Home,Home - General,998.17
+PROD0408,Pillow,Home,Home - General,980.23
+PROD0409,Laptop,Electronics,Electronics - General,674.47
+PROD0410,Sql Book,Books,Books - General,517.96
+PROD0411,T-Shirt,Clothing,Clothing - General,151.35
+PROD0412,Novel,Books,Books - General,134.97
+PROD0413,Shirt,Clothing,Clothing - General,372.67
+PROD0414,History Book,Books,Books - General,42.06
+PROD0415,Shirt,Clothing,Clothing - General,455.42
+PROD0416,Lamp,Home,Home - General,449.5
+PROD0417,Mouse,Electronics,Electronics - General,146.32
+PROD0418,Sofa,Home,Home - General,321.24
+PROD0419,Table,Home,Home - General,960.91
+PROD0420,Monitor,Electronics,Electronics - General,194.19
+PROD0421,History Book,Books,Books - General,126.58
+PROD0422,Pillow,Home,Home - General,451.81
+PROD0423,Pillow,Home,Home - General,917.31
+PROD0424,Python Book,Books,Books - General,131.41
+PROD0425,Keyboard,Electronics,Electronics - General,180.93
+PROD0426,Novel,Books,Books - General,812.41
+PROD0427,Pillow,Home,Home - General,353.95
+PROD0428,Mouse,Electronics,Electronics - General,546.75
+PROD0429,Table,Home,Home - General,714.69
+PROD0430,Jacket,Clothing,Clothing - General,513.67
+PROD0431,Smartphone,Electronics,Electronics - General,794.15
+PROD0432,Shoes,Clothing,Clothing - General,36.02
+PROD0433,Sofa,Home,Home - General,805.63
+PROD0434,Hoodie,Clothing,Clothing - General,885.4
+PROD0435,Headphones,Electronics,Electronics - General,404.18
+PROD0436,History Book,Books,Books - General,416.69
+PROD0437,History Book,Books,Books - General,83.01
+PROD0438,Pillow,Home,Home - General,83.42
+PROD0439,History Book,Books,Books - General,351.07
+PROD0440,Jeans,Clothing,Clothing - General,438.29
+PROD0441,Laptop,Electronics,Electronics - General,522.92
+PROD0442,Table,Home,Home - General,170.35
+PROD0443,Jacket,Clothing,Clothing - General,948.01
+PROD0444,Chair,Home,Home - General,258.1
+PROD0445,Table,Home,Home - General,628.77
+PROD0446,Mouse,Electronics,Electronics - General,644.58
+PROD0447,Jeans,Clothing,Clothing - General,662.15
+PROD0448,Curtains,Home,Home - General,50.78
+PROD0449,Laptop,Electronics,Electronics - General,55.01
+PROD0450,Pillow,Home,Home - General,218.7
+PROD0451,History Book,Books,Books - General,642.6
+PROD0452,History Book,Books,Books - General,296.77
+PROD0453,Sofa,Home,Home - General,252.43
+PROD0454,Sql Book,Books,Books - General,459.01
+PROD0455,Smartphone,Electronics,Electronics - General,445.21
+PROD0456,Data Science Book,Books,Books - General,211.98
+PROD0457,Jacket,Clothing,Clothing - General,862.87
+PROD0458,Pillow,Home,Home - General,988.14
+PROD0459,Sofa,Home,Home - General,139.46
+PROD0460,Curtains,Home,Home - General,566.03
+PROD0461,Table,Home,Home - General,471.81
+PROD0462,Sofa,Home,Home - General,255.44
+PROD0463,Laptop,Electronics,Electronics - General,297.31
+PROD0464,History Book,Books,Books - General,423.95
+PROD0465,Jacket,Clothing,Clothing - General,934.41
+PROD0466,Table,Home,Home - General,765.49
+PROD0467,History Book,Books,Books - General,472.15
+PROD0468,Sofa,Home,Home - General,32.94
+PROD0469,History Book,Books,Books - General,462.66
+PROD0470,Jeans,Clothing,Clothing - General,587.51
+PROD0471,Laptop,Electronics,Electronics - General,288.54
+PROD0472,Sql Book,Books,Books - General,541.32
+PROD0473,Keyboard,Electronics,Electronics - General,142.6
+PROD0474,Pillow,Home,Home - General,372.12
+PROD0475,Sql Book,Books,Books - General,54.79
+PROD0476,Mouse,Electronics,Electronics - General,566.2
+PROD0477,Curtains,Home,Home - General,295.72
+PROD0478,History Book,Books,Books - General,455.85
+PROD0479,Curtains,Home,Home - General,683.59
+PROD0480,Smartphone,Electronics,Electronics - General,975.33
+PROD0481,Sql Book,Books,Books - General,796.95
+PROD0482,Curtains,Home,Home - General,939.56
+PROD0483,Jeans,Clothing,Clothing - General,606.44
+PROD0484,History Book,Books,Books - General,49.85
+PROD0485,Smartphone,Electronics,Electronics - General,716.46
+PROD0486,History Book,Books,Books - General,462.42
+PROD0487,Jacket,Clothing,Clothing - General,932.06
+PROD0488,Table,Home,Home - General,399.03
+PROD0489,Curtains,Home,Home - General,343.01
+PROD0490,History Book,Books,Books - General,306.79
+PROD0491,Headphones,Electronics,Electronics - General,337.93
+PROD0492,Keyboard,Electronics,Electronics - General,587.87
+PROD0493,Mouse,Electronics,Electronics - General,479.84
+PROD0494,Shirt,Clothing,Clothing - General,60.84
+PROD0495,Python Book,Books,Books - General,528.99
+PROD0496,Python Book,Books,Books - General,823.44
+PROD0497,T-Shirt,Clothing,Clothing - General,576.84
+PROD0498,Smartphone,Electronics,Electronics - General,28.75
+PROD0499,Sofa,Home,Home - General,159.92
+PROD0500,Shoes,Clothing,Clothing - General,506.8
+PROD0501,Novel,Books,Books - General,708.72
+PROD0502,Hoodie,Clothing,Clothing - General,331.8
+PROD0503,History Book,Books,Books - General,383.06
+PROD0504,Shoes,Clothing,Clothing - General,913.0
+PROD0505,Curtains,Home,Home - General,360.74
+PROD0506,Curtains,Home,Home - General,489.34
+PROD0507,Jacket,Clothing,Clothing - General,562.51
+PROD0508,Jacket,Clothing,Clothing - General,773.46
+PROD0509,Shirt,Clothing,Clothing - General,707.94
+PROD0510,Sofa,Home,Home - General,355.32
+PROD0511,Lamp,Home,Home - General,130.66
+PROD0512,Data Science Book,Books,Books - General,820.19
+PROD0513,Jacket,Clothing,Clothing - General,51.65
+PROD0514,Headphones,Electronics,Electronics - General,924.77
+PROD0515,Pillow,Home,Home - General,484.29
+PROD0516,Hoodie,Clothing,Clothing - General,278.42
+PROD0517,Table,Home,Home - General,118.13
+PROD0518,Jeans,Clothing,Clothing - General,60.26
+PROD0519,Shirt,Clothing,Clothing - General,240.51
+PROD0520,Keyboard,Electronics,Electronics - General,336.99
+PROD0521,Novel,Books,Books - General,684.38
+PROD0522,T-Shirt,Clothing,Clothing - General,964.87
+PROD0523,Shoes,Clothing,Clothing - General,656.36
+PROD0524,Data Science Book,Books,Books - General,654.03
+PROD0525,Lamp,Home,Home - General,292.56
+PROD0526,Laptop,Electronics,Electronics - General,655.78
+PROD0527,Hoodie,Clothing,Clothing - General,741.3
+PROD0528,Smartphone,Electronics,Electronics - General,423.71
+PROD0529,T-Shirt,Clothing,Clothing - General,997.2
+PROD0530,Data Science Book,Books,Books - General,194.45
+PROD0531,Chair,Home,Home - General,19.17
+PROD0532,Headphones,Electronics,Electronics - General,291.72
+PROD0533,Python Book,Books,Books - General,852.55
+PROD0534,Sql Book,Books,Books - General,200.88
+PROD0535,Headphones,Electronics,Electronics - General,170.87
+PROD0536,Sql Book,Books,Books - General,721.41
+PROD0537,Monitor,Electronics,Electronics - General,343.74
+PROD0538,Curtains,Home,Home - General,677.66
+PROD0539,Jeans,Clothing,Clothing - General,614.84
+PROD0540,Data Science Book,Books,Books - General,520.13
+PROD0541,Keyboard,Electronics,Electronics - General,672.56
+PROD0542,Jeans,Clothing,Clothing - General,482.68
+PROD0543,T-Shirt,Clothing,Clothing - General,268.18
+PROD0544,Shoes,Clothing,Clothing - General,756.22
+PROD0545,Lamp,Home,Home - General,586.64
+PROD0546,Headphones,Electronics,Electronics - General,657.15
+PROD0547,T-Shirt,Clothing,Clothing - General,671.11
+PROD0548,Sql Book,Books,Books - General,168.12
+PROD0549,Pillow,Home,Home - General,126.24
+PROD0550,Lamp,Home,Home - General,618.48
+PROD0551,Jeans,Clothing,Clothing - General,483.4
+PROD0552,History Book,Books,Books - General,379.89
+PROD0553,History Book,Books,Books - General,803.98
+PROD0554,Jeans,Clothing,Clothing - General,683.54
+PROD0555,Mouse,Electronics,Electronics - General,452.28
+PROD0556,Chair,Home,Home - General,918.07
+PROD0557,Laptop,Electronics,Electronics - General,830.49
+PROD0558,Hoodie,Clothing,Clothing - General,541.29
+PROD0559,Jacket,Clothing,Clothing - General,855.94
+PROD0560,Novel,Books,Books - General,683.49
+PROD0561,Novel,Books,Books - General,899.9
+PROD0562,Novel,Books,Books - General,458.9
+PROD0563,Data Science Book,Books,Books - General,568.27
+PROD0564,Sql Book,Books,Books - General,726.05
+PROD0565,Sql Book,Books,Books - General,818.29
+PROD0566,Hoodie,Clothing,Clothing - General,82.3
+PROD0567,Sql Book,Books,Books - General,703.38
+PROD0568,Laptop,Electronics,Electronics - General,986.28
+PROD0569,Novel,Books,Books - General,294.22
+PROD0570,Jeans,Clothing,Clothing - General,768.17
+PROD0571,Sql Book,Books,Books - General,992.93
+PROD0572,Data Science Book,Books,Books - General,870.92
+PROD0573,Data Science Book,Books,Books - General,89.45
+PROD0574,Shirt,Clothing,Clothing - General,861.68
+PROD0575,Smartphone,Electronics,Electronics - General,992.92
+PROD0576,History Book,Books,Books - General,136.07
+PROD0577,T-Shirt,Clothing,Clothing - General,758.62
+PROD0578,Sofa,Home,Home - General,676.76
+PROD0579,History Book,Books,Books - General,385.48
+PROD0580,Jeans,Clothing,Clothing - General,466.02
+PROD0581,Jacket,Clothing,Clothing - General,196.6
+PROD0582,Laptop,Electronics,Electronics - General,811.38
+PROD0583,History Book,Books,Books - General,768.39
+PROD0584,Smartphone,Electronics,Electronics - General,214.02
+PROD0585,Mouse,Electronics,Electronics - General,43.24
+PROD0586,Smartphone,Electronics,Electronics - General,743.14
+PROD0587,Data Science Book,Books,Books - General,242.0
+PROD0588,T-Shirt,Clothing,Clothing - General,148.73
+PROD0589,Table,Home,Home - General,817.63
+PROD0590,Curtains,Home,Home - General,601.94
+PROD0591,Table,Home,Home - General,308.75
+PROD0592,Shirt,Clothing,Clothing - General,526.04
+PROD0593,Sql Book,Books,Books - General,282.4
+PROD0594,Shirt,Clothing,Clothing - General,681.96
+PROD0595,Novel,Books,Books - General,972.57
+PROD0596,History Book,Books,Books - General,325.55
+PROD0597,Data Science Book,Books,Books - General,157.73
+PROD0598,Python Book,Books,Books - General,756.87
+PROD0599,Python Book,Books,Books - General,850.85
+PROD0600,Pillow,Home,Home - General,152.91
